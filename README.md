@@ -10,11 +10,8 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://haydher.com#gh-light-mode-only)
-
 [![website](./img/globe-dark.svg)](https://haydher.com#gh-dark-mode-only)
-
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/haydher#gh-light-mode-only)
-
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/haydher#gh-dark-mode-only)
 
 ### Languages and Tools:
@@ -47,11 +44,10 @@
 ---
 
 <br />
+
 [![Haydher's stats](<img align="left"  alt="Haydher's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=haydher&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=issues,contribs" />)
-##
 
-## <br />
-
+<br />
 <br />
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haydher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
