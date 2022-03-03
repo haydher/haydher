@@ -40,11 +40,9 @@
 <br />
 <br />
 
----
-
 ### Most Used Languages:
 
-[<img align="left" alt="Haydher's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydher&layout=compact" />](https://haydher.com)
+[https://github-readme-stats.vercel.app/api/top-langs/?username=haydher&layout=compact](https://haydher.com)
 
 [website]: https://haydher.com
 [linkedin]: https://linkedin.com/in/haydher
